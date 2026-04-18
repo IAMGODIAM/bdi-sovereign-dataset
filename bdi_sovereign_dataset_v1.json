@@ -2380,5 +2380,8 @@
     "nft": "Exodus #5 \u2014 Perfect Harness Series \u2014 queued on ExodusV4 contract",
     "job41_authorized": true,
     "job41_note": "JOB41 commission authorized upon GitHub push and NFT mint confirmation"
-  }
+  },
+  "total_data_points_corrected": 1574,
+  "total_data_points_original_claim": 1855,
+  "count_correction_note": "Original claim of 1,855 included JSON metadata keys counted as data points \u2014 incorrect. Corrected to 1,574 per explicit counting rule in BDI_QUANT_SPEC.md (one row in a time series = one data point)."
 }
