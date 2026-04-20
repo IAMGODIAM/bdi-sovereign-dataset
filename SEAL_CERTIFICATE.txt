@@ -14,7 +14,7 @@ QUALITY GATES
   PROOF Source Verification: 34/34 dual-source — ✅ PASSED
 
 DATASET SCOPE
-  Total Data Points: 1,855
+  Total Data Points: 1,574 (verified; see count_correction_note in dataset JSON)
   Pillars Complete: 8 of 8
   Special Modules: Section 3 HUD + BDI Composite Index + State Resolution
   Year Range: 1514–2024
