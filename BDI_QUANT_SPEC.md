@@ -38,7 +38,7 @@ This index is a **correlation instrument**, not a causal model. It identifies co
 **Formula:** See Section 4
 
 ### Layer 3 — Place-Level Compound Distress Layer
-**Repo (tract):** `farmblock-data` — 12,426 tracts, 49 priority cities
+**Repo (tract):** `farmblock-data` — 15,578 tracts, 50 priority cities
 **Repo (county):** `farmblock-dataset` — county-level scored release
 **Unit:** FDI composite score 0–100 per tract or county
 **Formula:** See Section 5
@@ -159,7 +159,7 @@ The "1514–2024" language in public communication means:
 
 ## 8. COMPARISON UNIVERSE
 
-**Tract FDI:** All tracts in the 49 priority cities within the dataset. Not a national universe — this is a stated limitation.
+**Tract FDI:** All tracts in the 50 priority cities within the dataset. Not a national universe — this is a stated limitation.
 **County FDI:** 17 priority states. Not all 3,222 US counties — full county data is in bdi-raw-data-vault Tier 3 and will be used in v2.0.
 **National BDI:** National series with state-level resolution for 17 priority states.
 
