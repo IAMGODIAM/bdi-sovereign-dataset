@@ -83,3 +83,16 @@ The 1514–2024 span is used in public communication as historical context. It i
 ---
 
 *By Grace, perfect ways.*
+
+---
+
+## Related repositories — the BDI / FarmBlock stack
+
+Part of one body of work. The map:
+
+- [bdi-black-paper](https://github.com/IAMGODIAM/bdi-black-paper) — the publication (narrative + corrected print edition)
+- [measure-of-the-wound](https://github.com/IAMGODIAM/measure-of-the-wound) — the flagship book repository
+- [bdi-sovereign-dataset](https://github.com/IAMGODIAM/bdi-sovereign-dataset) — the synthesized flagship dataset (v1.0-SEALED) — **(this repository)**
+- [bdi-raw-data-vault](https://github.com/IAMGODIAM/bdi-raw-data-vault) — raw evidence vault (source documents, data lineage)
+
+*Cross-linked per UNIVERSE.md (DAG `universe-map-2026-0909`), Phase 0 — ratified Board Law.*
